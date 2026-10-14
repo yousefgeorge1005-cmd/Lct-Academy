@@ -1,0 +1,7 @@
+.git
+.env
+.htaccess
+database/
+scripts/
+*.sql
+*.tmp*

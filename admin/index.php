@@ -16,7 +16,7 @@ $activeCourses = count(array_filter($courses, fn($c) => $c['status'] === 'active
 $recent        = array_slice($allBookings, 0, 6);
 
 $analytics     = calculate_analytics_summary();
-$reminders     = get_upcoming_reminders();
+$reminders     = $shellReminders ?? get_upcoming_reminders();
 
 $courseById = []; foreach ($courses as $c) $courseById[$c['id']] = $c;
 $hallById   = []; foreach ($halls as $h) $hallById[$h['id']] = $h;

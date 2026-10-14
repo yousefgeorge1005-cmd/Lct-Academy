@@ -48,6 +48,8 @@ function write_json_file($path, $data) {
                     $phones[] = $phone;
                     upstash_set('lct:customers_phones', $phones);
                 }
+                upstash_del('lct:all_customers');
+                upstash_del('lct:all_bookings');
             }
         }
     }
@@ -168,13 +170,19 @@ function update_customer_booking_status($phone, $bookingId, $status, $reason = '
     });
 }
 
-/** Scan every customer record (from Upstash Redis using bulk MGET or local files) and return a flat array of all customers. */
+/** Scan every customer record (from Upstash Redis using cached aggregate or bulk MGET or local files) and return a flat array of all customers. */
 function list_all_customers($forceRefresh = false) {
     static $memo = null;
     if ($memo !== null && !$forceRefresh) return $memo;
 
     $out = [];
     if (function_exists('upstash_is_configured') && upstash_is_configured()) {
+        if (!$forceRefresh) {
+            $cached = upstash_get('lct:all_customers');
+            if (!empty($cached) && is_array($cached)) {
+                return $memo = $cached;
+            }
+        }
         $phones = upstash_smembers('lct:customers_set');
         if (empty($phones)) {
             $phones = upstash_get('lct:customers_phones', []);
@@ -182,7 +190,10 @@ function list_all_customers($forceRefresh = false) {
         if (!empty($phones)) {
             $keys = array_map(function($p) { return 'lct:customer:' . $p; }, $phones);
             $out = upstash_mget($keys);
-            if (!empty($out)) return $memo = $out;
+            if (!empty($out)) {
+                upstash_set('lct:all_customers', $out);
+                return $memo = $out;
+            }
         }
     }
     if (!is_dir(CUSTOMERS_DIR)) return $memo = $out;
@@ -202,6 +213,13 @@ function all_bookings($forceRefresh = false) {
     static $memo = null;
     if ($memo !== null && !$forceRefresh) return $memo;
 
+    if (function_exists('upstash_is_configured') && upstash_is_configured() && !$forceRefresh) {
+        $cached = upstash_get('lct:all_bookings');
+        if (!empty($cached) && is_array($cached)) {
+            return $memo = $cached;
+        }
+    }
+
     $out = [];
     foreach (list_all_customers($forceRefresh) as $customer) {
         foreach (($customer['bookings'] ?? []) as $b) {
@@ -212,6 +230,9 @@ function all_bookings($forceRefresh = false) {
         }
     }
     usort($out, function ($a, $b) { return strcmp($b['createdAt'] ?? '', $a['createdAt'] ?? ''); });
+    if (function_exists('upstash_is_configured') && upstash_is_configured() && !empty($out)) {
+        upstash_set('lct:all_bookings', $out);
+    }
     return $memo = $out;
 }
 
@@ -631,6 +652,8 @@ function delete_customer($phone) {
             $phones = array_values(array_filter($phones, fn($p) => $p !== $clean));
             upstash_set('lct:customers_phones', $phones);
         }
+        upstash_del('lct:all_customers');
+        upstash_del('lct:all_bookings');
     }
 
     $path = customer_file_path($clean);
