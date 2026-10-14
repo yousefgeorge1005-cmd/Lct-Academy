@@ -1,0 +1,23 @@
+{
+    "phone": "01026267107",
+    "fullName": "Farah Abdelaziz AbuBakr Abdelaziz",
+    "email": "abdelazizfarah12@gmail.com",
+    "nationalId": "30509300300663",
+    "createdAt": "2026-10-14T10:47:18-04:00",
+    "bookings": [
+        {
+            "id": "bk_22c8bc0713",
+            "ref": "LCT-612774",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791989234/lct-academy-id-photos/lct_id_LCT-612774_pay_04c6985e.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791989237/lct-academy-id-photos/lct_id_LCT-612774_id_daa9979d.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:47:18-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

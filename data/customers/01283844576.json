@@ -1,0 +1,23 @@
+{
+    "phone": "01283844576",
+    "fullName": "Mariam Hassan ali derar",
+    "email": "mariamderar022@gmail.com",
+    "nationalId": "30505250300246",
+    "createdAt": "2026-10-14T11:10:06-04:00",
+    "bookings": [
+        {
+            "id": "bk_6b901910db",
+            "ref": "LCT-285053",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791990603/lct-academy-id-photos/lct_id_LCT-285053_pay_459233bc.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791990606/lct-academy-id-photos/lct_id_LCT-285053_id_c115379c.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T11:10:06-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

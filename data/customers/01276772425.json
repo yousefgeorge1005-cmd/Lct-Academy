@@ -1,0 +1,23 @@
+{
+    "phone": "01276772425",
+    "fullName": "Nourhan mohamed kamal abdelkader",
+    "email": "Nonododoo43@gmail.com",
+    "nationalId": "30507210300408",
+    "createdAt": "2026-10-14T10:46:02-04:00",
+    "bookings": [
+        {
+            "id": "bk_4e1111c346",
+            "ref": "LCT-735958",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791989158/lct-academy-id-photos/lct_id_LCT-735958_pay_ec03a35c.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791989163/lct-academy-id-photos/lct_id_LCT-735958_id_a630e475.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:46:02-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

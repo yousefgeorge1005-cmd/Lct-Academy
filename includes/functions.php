@@ -16,6 +16,19 @@ function _redis_key_for_file($path) {
 }
 
 function read_json_file($path, $default = []) {
+    $isServerless = !empty(getenv('VERCEL')) || !empty($_ENV['VERCEL']) || !empty($_SERVER['VERCEL']);
+    if (!$isServerless && file_exists($path)) {
+        $fp = @fopen($path, 'r');
+        if ($fp) {
+            flock($fp, LOCK_SH);
+            $contents = stream_get_contents($fp);
+            flock($fp, LOCK_UN);
+            fclose($fp);
+            $data = json_decode($contents, true);
+            if (!is_null($data)) return $data;
+        }
+    }
+
     if (function_exists('upstash_is_configured') && upstash_is_configured()) {
         $key = _redis_key_for_file($path);
         if ($key !== null) {

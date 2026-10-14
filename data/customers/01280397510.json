@@ -1,0 +1,23 @@
+{
+    "phone": "01280397510",
+    "fullName": "إيمان كاشف عبده حسين",
+    "email": "eman.kashef66@gmail.com",
+    "nationalId": "30505051901745",
+    "createdAt": "2026-10-14T11:21:00-04:00",
+    "bookings": [
+        {
+            "id": "bk_425d0bcbe1",
+            "ref": "LCT-541789",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791991258/lct-academy-id-photos/lct_id_LCT-541789_pay_7e42431e.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791991260/lct-academy-id-photos/lct_id_LCT-541789_id_ba6986cf.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T11:21:00-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

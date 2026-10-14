@@ -13,20 +13,6 @@ if (!defined('UPSTASH_REDIS_REST_TOKEN')) {
 }
 
 function upstash_is_configured() {
-    // Only use Upstash when running in a serverless cloud environment (e.g. Vercel)
-    // or when explicitly forced via FORCE_UPSTASH=1.
-    // On regular web hosting (like InfinityFree or Apache), use fast native disk storage
-    // to avoid outbound connection blocking, timeouts, and heavy latency.
-    $isServerless = !empty(getenv('VERCEL')) 
-        || !empty($_ENV['VERCEL']) 
-        || !empty($_SERVER['VERCEL']) 
-        || !empty(getenv('FORCE_UPSTASH')) 
-        || !empty($_ENV['FORCE_UPSTASH']);
-
-    if (!$isServerless) {
-        return false;
-    }
-
     return defined('UPSTASH_REDIS_REST_URL') 
         && !empty(UPSTASH_REDIS_REST_URL) 
         && defined('UPSTASH_REDIS_REST_TOKEN') 

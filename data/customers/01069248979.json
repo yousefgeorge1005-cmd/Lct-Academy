@@ -1,0 +1,23 @@
+{
+    "phone": "01069248979",
+    "fullName": "Abdelmaged Hashaim Soliman Mohamed",
+    "email": "abdelmagedhashaim8@gmail.com",
+    "nationalId": "30409301900139",
+    "createdAt": "2026-10-14T11:33:49-04:00",
+    "bookings": [
+        {
+            "id": "bk_f29a0bd5ee",
+            "ref": "LCT-537789",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791992028/lct-academy-id-photos/lct_id_LCT-537789_pay_0b6b1adb.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791992029/lct-academy-id-photos/lct_id_LCT-537789_id_58b4a7eb.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T11:33:49-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

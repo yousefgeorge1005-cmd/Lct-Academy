@@ -1,0 +1,23 @@
+{
+    "phone": "01012637563",
+    "fullName": "يارا عصام عبدالرؤوف مصطفى",
+    "email": "",
+    "nationalId": "30507101303103",
+    "createdAt": "2026-10-14T11:35:49-04:00",
+    "bookings": [
+        {
+            "id": "bk_a85c4f226a",
+            "ref": "LCT-938370",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791992148/lct-academy-id-photos/lct_id_LCT-938370_pay_b5480a8c.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791992149/lct-academy-id-photos/lct_id_LCT-938370_id_b8946fed.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br2",
+            "createdAt": "2026-10-14T11:35:49-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

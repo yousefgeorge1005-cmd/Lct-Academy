@@ -1,0 +1,23 @@
+{
+    "phone": "01023793189",
+    "fullName": "Rania Abdelkawi Rabea Mohamed",
+    "email": "raniainreallife17@gmail.com",
+    "nationalId": "30410151900923",
+    "createdAt": "2026-10-14T11:10:45-04:00",
+    "bookings": [
+        {
+            "id": "bk_b8c8ff9de2",
+            "ref": "LCT-179729",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791990644/lct-academy-id-photos/lct_id_LCT-179729_pay_85fca60f.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791990645/lct-academy-id-photos/lct_id_LCT-179729_id_eb0aefd8.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T11:10:45-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

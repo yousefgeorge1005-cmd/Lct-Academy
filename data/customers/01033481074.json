@@ -1,0 +1,23 @@
+{
+    "phone": "01033481074",
+    "fullName": "Lamiaa Mohammed Salem Mohammed",
+    "email": "",
+    "nationalId": "30503061301743",
+    "createdAt": "2026-10-14T11:45:28-04:00",
+    "bookings": [
+        {
+            "id": "bk_98770f9a41",
+            "ref": "LCT-467214",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791992726/lct-academy-id-photos/lct_id_LCT-467214_pay_cfaaafc5.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791992728/lct-academy-id-photos/lct_id_LCT-467214_id_72267af4.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T11:45:28-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}
