@@ -1,0 +1,23 @@
+{
+    "phone": "01020259610",
+    "fullName": "ياسمين خيري فتحي محمد",
+    "email": "yasmenheiba26@gmail.com",
+    "nationalId": "30507011901869",
+    "createdAt": "2026-10-14T09:13:11-04:00",
+    "bookings": [
+        {
+            "id": "bk_79889769d0",
+            "ref": "LCT-610021",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983589/lct-academy-id-photos/lct_id_LCT-610021_pay_aa8891b6.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983591/lct-academy-id-photos/lct_id_LCT-610021_id_8d27f3c6.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:13:11-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

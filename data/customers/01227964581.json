@@ -1,0 +1,23 @@
+{
+    "phone": "01227964581",
+    "fullName": "Nada Reda Bakry Soliman",
+    "email": "nanireda494@gmail.com",
+    "nationalId": "30505111900166",
+    "createdAt": "2026-10-14T09:31:45-04:00",
+    "bookings": [
+        {
+            "id": "bk_f15639fb8a",
+            "ref": "LCT-237610",
+            "type": "course",
+            "status": "pending",
+            "notes": "الرقم إلا حولت منه هو ده\r\n01094573446",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984704/lct-academy-id-photos/lct_id_LCT-237610_pay_380b6198.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984705/lct-academy-id-photos/lct_id_LCT-237610_id_00a3aa60.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:31:45-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

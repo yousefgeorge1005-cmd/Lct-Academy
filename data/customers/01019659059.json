@@ -1,0 +1,23 @@
+{
+    "phone": "01019659059",
+    "fullName": "عمر اشرف محمد حسن صالح",
+    "email": "Omarashrf5555@gmail.com",
+    "nationalId": "30411090300215",
+    "createdAt": "2026-10-14T10:25:35-04:00",
+    "bookings": [
+        {
+            "id": "bk_15783680c5",
+            "ref": "LCT-745152",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987934/lct-academy-id-photos/lct_id_LCT-745152_pay_4952e160.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987935/lct-academy-id-photos/lct_id_LCT-745152_id_42be12f3.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:25:35-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

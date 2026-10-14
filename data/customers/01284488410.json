@@ -1,0 +1,23 @@
+{
+    "phone": "01284488410",
+    "fullName": "شهد ايمن السيد العربي ابوعيسي",
+    "email": "Shahd12ayman12@gmail.com",
+    "nationalId": "30507300300164",
+    "createdAt": "2026-10-14T09:56:34-04:00",
+    "bookings": [
+        {
+            "id": "bk_a2bdcf53c0",
+            "ref": "LCT-783616",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986192/lct-academy-id-photos/lct_id_LCT-783616_pay_9d1ef059.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986194/lct-academy-id-photos/lct_id_LCT-783616_id_8a92806d.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br2",
+            "createdAt": "2026-10-14T09:56:34-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "phone": "01200903009",
+    "fullName": "جنا معتز محمد محمد كامل",
+    "email": "Janamoataz7@gmail.com",
+    "nationalId": "30507210300343",
+    "createdAt": "2026-10-14T08:56:04-04:00",
+    "bookings": [
+        {
+            "id": "bk_04aa170db4",
+            "ref": "LCT-256541",
+            "type": "course",
+            "status": "pending",
+            "notes": "هو أنا اونلاين هحضر اونلاين",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982563/lct-academy-id-photos/lct_id_LCT-256541_pay_b11bb129.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982565/lct-academy-id-photos/lct_id_LCT-256541_id_c6fce944.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T08:56:04-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

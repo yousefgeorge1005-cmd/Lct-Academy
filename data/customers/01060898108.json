@@ -1,0 +1,23 @@
+{
+    "phone": "01060898108",
+    "fullName": "شهد محيي الدين محمد جميل الحديدي",
+    "email": "shahdmohi67@gmail.com",
+    "nationalId": "30509290300589",
+    "createdAt": "2026-10-14T08:53:34-04:00",
+    "bookings": [
+        {
+            "id": "bk_f3095d0967",
+            "ref": "LCT-267931",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982412/lct-academy-id-photos/lct_id_LCT-267931_pay_718faa34.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982414/lct-academy-id-photos/lct_id_LCT-267931_id_de2f8a7f.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T08:53:34-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

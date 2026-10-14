@@ -1,0 +1,23 @@
+{
+    "phone": "01227706933",
+    "fullName": "Kenzy Ibrahim Ibrahim Elelady",
+    "email": "Kenzysalama50@gmail.com",
+    "nationalId": "30509120300444",
+    "createdAt": "2026-10-14T09:16:30-04:00",
+    "bookings": [
+        {
+            "id": "bk_350d629106",
+            "ref": "LCT-693818",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983788/lct-academy-id-photos/lct_id_LCT-693818_pay_4ffd2a4e.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983790/lct-academy-id-photos/lct_id_LCT-693818_id_155e9ae8.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:16:30-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

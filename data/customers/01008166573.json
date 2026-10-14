@@ -1,0 +1,23 @@
+{
+    "phone": "01008166573",
+    "fullName": "عبدالرحمن عباده السيد عبد المنصف",
+    "email": "",
+    "nationalId": "30506213400237",
+    "createdAt": "2026-10-14T08:50:57-04:00",
+    "bookings": [
+        {
+            "id": "bk_cf6c628ea7",
+            "ref": "LCT-632686",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982256/lct-academy-id-photos/lct_id_LCT-632686_pay_5ea1ef48.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982258/lct-academy-id-photos/lct_id_LCT-632686_id_197e61f6.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T08:50:57-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

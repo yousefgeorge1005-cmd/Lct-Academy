@@ -1,0 +1,23 @@
+{
+    "phone": "01205176245",
+    "fullName": "بسملة السيد السيد عبد الفتاح",
+    "email": "basmalaismail48@gmail.com",
+    "nationalId": "30506210300169",
+    "createdAt": "2026-10-14T09:17:15-04:00",
+    "bookings": [
+        {
+            "id": "bk_c0ab0b935c",
+            "ref": "LCT-891994",
+            "type": "course",
+            "status": "pending",
+            "notes": "شكرا",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983834/lct-academy-id-photos/lct_id_LCT-891994_pay_ec899df3.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983835/lct-academy-id-photos/lct_id_LCT-891994_id_d1fd2772.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:17:15-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

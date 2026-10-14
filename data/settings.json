@@ -1,0 +1,38 @@
+{
+    "branches": [
+        {
+            "id": "br1",
+            "name": {
+                "ar": "فرع شارع شبيين",
+                "en": "Ismailia Branch"
+            },
+            "address": {
+                "ar": "شارع شبيين برج بانوراما أمام الموقف الجديد",
+                "en": "Sharabin St., Panorama Tower, Opposite Bus Station"
+            },
+            "phone": "01002732802",
+            "email": "ismailia@lct-academy.eg",
+            "hours": {
+                "ar": "9:00 صباحاً – 9:00 مساءً",
+                "en": "9:00 AM – 9:00 PM"
+            }
+        },
+        {
+            "id": "br2",
+            "name": {
+                "ar": "فرع التلاتيني",
+                "en": "El-Talateeny Branch"
+            },
+            "address": {
+                "ar": "شارع الثلاثيني ناصية شارع فاروق أعلى محمصة الدراويش",
+                "en": "Near Al-Darawish Roastery"
+            },
+            "phone": "01005373384",
+            "email": "talateeny@lct-academy.eg",
+            "hours": {
+                "ar": "9:00 صباحاً – 9:00 مساءً",
+                "en": "9:00 AM – 9:00 PM"
+            }
+        }
+    ]
+}

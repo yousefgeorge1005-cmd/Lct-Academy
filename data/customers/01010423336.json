@@ -1,0 +1,23 @@
+{
+    "phone": "01010423336",
+    "fullName": "Menna Ashraf Mohamed Ibrahim Salem",
+    "email": "mennasalem619@gmail.com",
+    "nationalId": "30511030300121",
+    "createdAt": "2026-10-14T09:43:49-04:00",
+    "bookings": [
+        {
+            "id": "bk_c9a80b84f8",
+            "ref": "LCT-774876",
+            "type": "course",
+            "status": "pending",
+            "notes": "شكرا ليكم",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985428/lct-academy-id-photos/lct_id_LCT-774876_pay_b149d892.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985430/lct-academy-id-photos/lct_id_LCT-774876_id_51a78a21.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br2",
+            "createdAt": "2026-10-14T09:43:49-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

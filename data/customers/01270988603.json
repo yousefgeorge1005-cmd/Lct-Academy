@@ -1,0 +1,23 @@
+{
+    "phone": "01270988603",
+    "fullName": "رزان حسام عزت إبراهيم",
+    "email": "Razanhsm@gmail.com",
+    "nationalId": "30508180300404",
+    "createdAt": "2026-10-14T09:00:40-04:00",
+    "bookings": [
+        {
+            "id": "bk_9843c631ba",
+            "ref": "LCT-243647",
+            "type": "course",
+            "status": "pending",
+            "notes": "لا",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982839/lct-academy-id-photos/lct_id_LCT-243647_pay_302f6b5d.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982841/lct-academy-id-photos/lct_id_LCT-243647_id_62f2e080.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br2",
+            "createdAt": "2026-10-14T09:00:40-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

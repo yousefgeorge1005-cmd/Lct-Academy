@@ -1,0 +1,23 @@
+{
+    "phone": "01210403970",
+    "fullName": "Amira Mohammed Abass Mohammed",
+    "email": "123456amero@gmail.com",
+    "nationalId": "30506030300187",
+    "createdAt": "2026-10-14T09:40:06-04:00",
+    "bookings": [
+        {
+            "id": "bk_8665867339",
+            "ref": "LCT-459132",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985205/lct-academy-id-photos/lct_id_LCT-459132_pay_5b49b178.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985206/lct-academy-id-photos/lct_id_LCT-459132_id_50482f49.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:40:06-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "phone": "01202706246",
+    "fullName": "Fatma mohamed mohamed abdelsalam",
+    "email": "fatma.moo19@gmail.com",
+    "nationalId": "30502251900523",
+    "createdAt": "2026-10-14T09:11:55-04:00",
+    "bookings": [
+        {
+            "id": "bk_7bc2e43fad",
+            "ref": "LCT-426637",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983513/lct-academy-id-photos/lct_id_LCT-426637_pay_8a91bfb1.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983515/lct-academy-id-photos/lct_id_LCT-426637_id_bf32f469.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:11:55-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

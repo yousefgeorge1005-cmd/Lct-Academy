@@ -1,0 +1,23 @@
+{
+    "phone": "01210195734",
+    "fullName": "Amira Mohsen Mahmoud Saleh",
+    "email": "",
+    "nationalId": "30411050300301",
+    "createdAt": "2026-10-14T09:36:53-04:00",
+    "bookings": [
+        {
+            "id": "bk_3bb502080c",
+            "ref": "LCT-783214",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985011/lct-academy-id-photos/lct_id_LCT-783214_pay_aa6849d1.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985013/lct-academy-id-photos/lct_id_LCT-783214_id_6873f0a3.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br2",
+            "createdAt": "2026-10-14T09:36:53-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

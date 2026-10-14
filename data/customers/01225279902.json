@@ -1,0 +1,23 @@
+{
+    "phone": "01225279902",
+    "fullName": "جنة الله محمد علي محمد فرغلي",
+    "email": "gannamohamed422@gmail.com",
+    "nationalId": "30510200300265",
+    "createdAt": "2026-10-14T08:48:41-04:00",
+    "bookings": [
+        {
+            "id": "bk_be1b0cf65c",
+            "ref": "LCT-441375",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982120/lct-academy-id-photos/lct_id_LCT-441375_pay_983a834b.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982122/lct-academy-id-photos/lct_id_LCT-441375_id_0b3d3198.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br2",
+            "createdAt": "2026-10-14T08:48:41-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

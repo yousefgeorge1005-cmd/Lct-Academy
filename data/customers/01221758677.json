@@ -1,0 +1,23 @@
+{
+    "phone": "01221758677",
+    "fullName": "Shahd hesham salem hafez",
+    "email": "hs6464797@gmail.com",
+    "nationalId": "30504051304325",
+    "createdAt": "2026-10-14T09:30:19-04:00",
+    "bookings": [
+        {
+            "id": "bk_6001b82b77",
+            "ref": "LCT-369551",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984618/lct-academy-id-photos/lct_id_LCT-369551_pay_feca23ae.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984619/lct-academy-id-photos/lct_id_LCT-369551_id_78ff1b41.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:30:19-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

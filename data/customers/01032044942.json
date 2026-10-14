@@ -1,0 +1,23 @@
+{
+    "phone": "01032044942",
+    "fullName": "Mariam Bassam Mohamed elsubihi",
+    "email": "maryambassam32@gmail.com",
+    "nationalId": "30412210300466",
+    "createdAt": "2026-10-14T09:37:23-04:00",
+    "bookings": [
+        {
+            "id": "bk_ef33a116b5",
+            "ref": "LCT-705442",
+            "type": "course",
+            "status": "pending",
+            "notes": "لا",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985040/lct-academy-id-photos/lct_id_LCT-705442_pay_baa47e44.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985043/lct-academy-id-photos/lct_id_LCT-705442_id_563a82e2.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br2",
+            "createdAt": "2026-10-14T09:37:23-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

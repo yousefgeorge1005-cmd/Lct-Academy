@@ -1,0 +1,23 @@
+{
+    "phone": "01224664571",
+    "fullName": "Salma Mohamed Ibrahim Ali",
+    "email": "salmamohamedd141@gmail.com",
+    "nationalId": "30501141900084",
+    "createdAt": "2026-10-14T09:39:54-04:00",
+    "bookings": [
+        {
+            "id": "bk_0ac67fcf02",
+            "ref": "LCT-733679",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985193/lct-academy-id-photos/lct_id_LCT-733679_pay_1227b382.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985194/lct-academy-id-photos/lct_id_LCT-733679_id_85739aa6.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:39:54-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

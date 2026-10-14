@@ -1,0 +1,23 @@
+{
+    "phone": "01276060138",
+    "fullName": "Mazen Ahmed Ghareeb",
+    "email": "mazenzghareeb123@gmail.com",
+    "nationalId": "30502021305073",
+    "createdAt": "2026-10-14T09:13:28-04:00",
+    "bookings": [
+        {
+            "id": "bk_e8cd9d02c6",
+            "ref": "LCT-850311",
+            "type": "course",
+            "status": "pending",
+            "notes": "حبيبي",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983607/lct-academy-id-photos/lct_id_LCT-850311_pay_1361b5e8.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983608/lct-academy-id-photos/lct_id_LCT-850311_id_7e0e9327.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:13:28-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

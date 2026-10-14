@@ -1,0 +1,23 @@
+{
+    "phone": "01287944877",
+    "fullName": "مريم حسن إبراهيم احمد",
+    "email": "maremhassan184@gmail.com",
+    "nationalId": "30501011902069",
+    "createdAt": "2026-10-14T09:05:36-04:00",
+    "bookings": [
+        {
+            "id": "bk_fc98bf2131",
+            "ref": "LCT-670230",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983134/lct-academy-id-photos/lct_id_LCT-670230_pay_aacd276f.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983136/lct-academy-id-photos/lct_id_LCT-670230_id_448f9b3b.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:05:36-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

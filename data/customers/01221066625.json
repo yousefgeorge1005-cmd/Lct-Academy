@@ -1,0 +1,23 @@
+{
+    "phone": "01221066625",
+    "fullName": "Maryam Moussa Ismael Ahemd",
+    "email": "mariammoussa392@gmail.com",
+    "nationalId": "30510010302768",
+    "createdAt": "2026-10-14T09:30:41-04:00",
+    "bookings": [
+        {
+            "id": "bk_dbe23c8e45",
+            "ref": "LCT-136538",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984638/lct-academy-id-photos/lct_id_LCT-136538_pay_4e562265.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984640/lct-academy-id-photos/lct_id_LCT-136538_id_5ca5e7c1.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:30:41-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

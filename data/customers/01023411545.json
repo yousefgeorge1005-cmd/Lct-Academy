@@ -1,0 +1,23 @@
+{
+    "phone": "01023411545",
+    "fullName": "samar mustafa Abdelwaheb abdelfattah morssy",
+    "email": "samarmostafa552@gmail.com",
+    "nationalId": "30509011322527",
+    "createdAt": "2026-10-14T10:15:20-04:00",
+    "bookings": [
+        {
+            "id": "bk_b88ba1e831",
+            "ref": "LCT-698146",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987319/lct-academy-id-photos/lct_id_LCT-698146_pay_5c6a4e95.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987320/lct-academy-id-photos/lct_id_LCT-698146_id_7cea2fd7.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:15:20-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

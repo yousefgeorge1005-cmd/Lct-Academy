@@ -1,0 +1,23 @@
+{
+    "phone": "01099363969",
+    "fullName": "رضوى نشأت عبدالرحيم السيد",
+    "email": "mrnasyd110@gmail.com",
+    "nationalId": "30506061701805",
+    "createdAt": "2026-10-14T08:58:23-04:00",
+    "bookings": [
+        {
+            "id": "bk_c25f35d781",
+            "ref": "LCT-753729",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982702/lct-academy-id-photos/lct_id_LCT-753729_pay_0127d9c7.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982704/lct-academy-id-photos/lct_id_LCT-753729_id_dcac1dbf.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T08:58:23-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

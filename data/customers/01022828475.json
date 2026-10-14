@@ -1,0 +1,23 @@
+{
+    "phone": "01022828475",
+    "fullName": "Rahma El- sayed Farouk El-sayed Shaheen",
+    "email": "rahmashaheen2005@gmail.com",
+    "nationalId": "30509300301007",
+    "createdAt": "2026-10-14T09:45:58-04:00",
+    "bookings": [
+        {
+            "id": "bk_40e4346bb9",
+            "ref": "LCT-856356",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985558/lct-academy-id-photos/lct_id_LCT-856356_pay_6d2b027d.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985558/lct-academy-id-photos/lct_id_LCT-856356_id_688cfe49.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:45:58-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

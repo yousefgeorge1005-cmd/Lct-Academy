@@ -1,0 +1,23 @@
+{
+    "phone": "01027324384",
+    "fullName": "Mariam Mohamed Taha Mahmoud",
+    "email": "marimtahaa7676@icloud.com",
+    "nationalId": "30503180300305",
+    "createdAt": "2026-10-14T09:35:52-04:00",
+    "bookings": [
+        {
+            "id": "bk_76910a0988",
+            "ref": "LCT-789098",
+            "type": "course",
+            "status": "pending",
+            "notes": "لا يوجد",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984951/lct-academy-id-photos/lct_id_LCT-789098_pay_6e89b012.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984952/lct-academy-id-photos/lct_id_LCT-789098_id_6c98d903.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br2",
+            "createdAt": "2026-10-14T09:35:52-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

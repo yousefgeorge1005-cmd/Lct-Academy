@@ -1,0 +1,23 @@
+{
+    "phone": "01098193989",
+    "fullName": "ملك مهاب محمد حامد عثمان",
+    "email": "",
+    "nationalId": "30601318800608",
+    "createdAt": "2026-10-14T09:13:49-04:00",
+    "bookings": [
+        {
+            "id": "bk_d1e289e01d",
+            "ref": "LCT-857398",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983627/lct-academy-id-photos/lct_id_LCT-857398_pay_9d2fe95b.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983628/lct-academy-id-photos/lct_id_LCT-857398_id_ecd9c6f2.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:13:49-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

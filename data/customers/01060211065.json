@@ -1,0 +1,23 @@
+{
+    "phone": "01060211065",
+    "fullName": "سيف طارق محمد عيد هندي",
+    "email": "saiftarek417@gmail.com",
+    "nationalId": "30310211300632",
+    "createdAt": "2026-10-14T10:32:17-04:00",
+    "bookings": [
+        {
+            "id": "bk_3c29dd0d5b",
+            "ref": "LCT-227585",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791988337/lct-academy-id-photos/lct_id_LCT-227585_pay_a2f22fa0.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791988338/lct-academy-id-photos/lct_id_LCT-227585_id_a031d4a4.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:32:17-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

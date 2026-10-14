@@ -1,0 +1,23 @@
+{
+    "phone": "01203364260",
+    "fullName": "زياد أيمن فؤاد علي",
+    "email": "zyadayman70kr@gmail.com",
+    "nationalId": "30511051900056",
+    "createdAt": "2026-10-14T09:03:43-04:00",
+    "bookings": [
+        {
+            "id": "bk_c5a1b04498",
+            "ref": "LCT-634335",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983022/lct-academy-id-photos/lct_id_LCT-634335_pay_977d6340.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983023/lct-academy-id-photos/lct_id_LCT-634335_id_4d89c0c0.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:03:43-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

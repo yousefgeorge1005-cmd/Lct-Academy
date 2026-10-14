@@ -1,0 +1,122 @@
+[
+    {
+        "id": "h1",
+        "branchId": "br1",
+        "name": {
+            "ar": "قاعة النور",
+            "en": "Al Noor Hall"
+        },
+        "type": {
+            "ar": "قاعة لغات",
+            "en": "Language Hall"
+        },
+        "capacity": 20,
+        "pricePerHour": 150,
+        "amenities": {
+            "smartboard": true,
+            "projector": false,
+            "ac": true
+        },
+        "slots": []
+    },
+    {
+        "id": "h2",
+        "branchId": "br1",
+        "name": {
+            "ar": "قاعة الإبداع",
+            "en": "Al Ibda Hall"
+        },
+        "type": {
+            "ar": "قاعة لغات",
+            "en": "Language Hall"
+        },
+        "capacity": 16,
+        "pricePerHour": 120,
+        "amenities": {
+            "smartboard": false,
+            "projector": false,
+            "ac": true
+        },
+        "slots": []
+    },
+    {
+        "id": "h3",
+        "branchId": "br2",
+        "name": {
+            "ar": "معمل الحاسب الآلي ( السعر 8 ساعات شهريا )",
+            "en": "Computer Lab"
+        },
+        "type": {
+            "ar": "معمل كمبيوتر",
+            "en": "Computer Lab"
+        },
+        "capacity": 20,
+        "pricePerHour": 300,
+        "amenities": {
+            "smartboard": false,
+            "projector": true,
+            "ac": false
+        },
+        "slots": []
+    },
+    {
+        "name": {
+            "ar": "قاعة ( 1 )",
+            "en": ""
+        },
+        "type": {
+            "ar": "",
+            "en": ""
+        },
+        "capacity": 25,
+        "pricePerHour": 350,
+        "branchId": "br2",
+        "amenities": {
+            "smartboard": false,
+            "projector": true,
+            "ac": false
+        },
+        "id": "hall_62d2cfd207",
+        "slots": []
+    },
+    {
+        "name": {
+            "ar": "قاعة ( 2 ) السعر 8 ساعات شهريا",
+            "en": ""
+        },
+        "type": {
+            "ar": "",
+            "en": ""
+        },
+        "capacity": 45,
+        "pricePerHour": 600,
+        "branchId": "br2",
+        "amenities": {
+            "smartboard": false,
+            "projector": true,
+            "ac": true
+        },
+        "id": "hall_c8412e6216",
+        "slots": []
+    },
+    {
+        "name": {
+            "ar": "قاعة ( 3 ) السعر 8 ساعات شهريا",
+            "en": ""
+        },
+        "type": {
+            "ar": "",
+            "en": ""
+        },
+        "capacity": 20,
+        "pricePerHour": 300,
+        "branchId": "br2",
+        "amenities": {
+            "smartboard": false,
+            "projector": true,
+            "ac": false
+        },
+        "id": "hall_b565d52191",
+        "slots": []
+    }
+]

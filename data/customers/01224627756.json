@@ -1,0 +1,23 @@
+{
+    "phone": "01224627756",
+    "fullName": "Fatma Ramadan Saeed El Sayed",
+    "email": "fr554178@gmail.com",
+    "nationalId": "30503202604524",
+    "createdAt": "2026-10-14T09:30:56-04:00",
+    "bookings": [
+        {
+            "id": "bk_a16545aa4b",
+            "ref": "LCT-265399",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984654/lct-academy-id-photos/lct_id_LCT-265399_pay_c6d4e55e.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984656/lct-academy-id-photos/lct_id_LCT-265399_id_9b5edf38.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:30:56-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

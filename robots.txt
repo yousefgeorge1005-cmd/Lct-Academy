@@ -1,0 +1,18 @@
+# Robots.txt for LCT Academy
+User-agent: *
+Allow: /
+Allow: /index.php
+Allow: /courses.php
+Allow: /course.php
+Allow: /halls.php
+Allow: /book-hall.php
+Allow: /book.php
+Allow: /portal.php
+Allow: /assets/
+
+Disallow: /admin/
+Disallow: /data/
+Disallow: /api/
+Disallow: /includes/
+
+Sitemap: http://localhost:8000/sitemap.php

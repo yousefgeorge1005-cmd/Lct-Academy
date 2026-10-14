@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "env": {
+    "VERCEL": "1",
+    "UPSTASH_REDIS_REST_URL": "https://relieved-magpie-171147.upstash.io",
+    "UPSTASH_REDIS_REST_TOKEN": "gQAAAAAAApyLAAIgcDFiZWM0MDAxZmEyMmQ0MGUzYmI0NjQ3OTA3ZGRmNzU2NQ"
+  },
+  "functions": {
+    "api/index.php": {
+      "runtime": "vercel-php@0.7.3"
+    }
+  },
+  "routes": [
+    {
+      "src": "/assets/(.*)",
+      "dest": "/assets/$1"
+    },
+    {
+      "src": "/robots.txt",
+      "dest": "/robots.txt"
+    },
+    {
+      "src": "/sitemap.xml",
+      "dest": "/sitemap.xml"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/api/index.php"
+    }
+  ]
+}

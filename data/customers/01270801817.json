@@ -1,0 +1,23 @@
+{
+    "phone": "01270801817",
+    "fullName": "Moamen Salah Mohamed Zaki",
+    "email": "momen.salah.mohamed1@gmail.com",
+    "nationalId": "30505191300431",
+    "createdAt": "2026-10-14T09:57:42-04:00",
+    "bookings": [
+        {
+            "id": "bk_7c3dd5944f",
+            "ref": "LCT-742296",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986261/lct-academy-id-photos/lct_id_LCT-742296_pay_77a1681a.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986262/lct-academy-id-photos/lct_id_LCT-742296_id_11a87cf0.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:57:42-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

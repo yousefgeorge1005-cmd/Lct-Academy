@@ -1,0 +1,43 @@
+{
+    "phone": "01037952449",
+    "fullName": "محمد عبد الوهاب العقيل",
+    "email": "christenasafwat79@gmail.com",
+    "nationalId": "66685247896352",
+    "createdAt": "2026-10-14T06:36:01-04:00",
+    "bookings": [
+        {
+            "id": "bk_30c370441e",
+            "ref": "LCT-593634",
+            "type": "course",
+            "status": "cancelled",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791974160/lct-academy-id-photos/lct_id_LCT-593634_pay_e204d570.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791974161/lct-academy-id-photos/lct_id_LCT-593634_id_e0a7d339.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T06:36:01-04:00",
+            "courseId": "course_8a90ad72e4",
+            "amountPaid": 100,
+            "paymentDueDate": "2026-10-15",
+            "paymentNotes": "تم دفع 100 استمارة وباقى 1900",
+            "paymentUpdatedAt": "2026-10-14T06:42:15-04:00",
+            "reviewedAt": "2026-10-14T06:42:23-04:00",
+            "cancelledAt": "2026-10-14T07:08:53-04:00"
+        },
+        {
+            "id": "bk_a84e1e3160",
+            "ref": "LCT-304538",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791978441/lct-academy-id-photos/lct_id_LCT-304538_pay_7823ae4c.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791978443/lct-academy-id-photos/lct_id_LCT-304538_id_ba272b4b.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T07:47:22-04:00",
+            "courseId": "course_e842eb4e5d"
+        }
+    ]
+}

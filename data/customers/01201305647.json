@@ -1,0 +1,23 @@
+{
+    "phone": "01201305647",
+    "fullName": "محمد ابراهيم السيد فراج الامير",
+    "email": "",
+    "nationalId": "30504130300076",
+    "createdAt": "2026-10-14T09:08:00-04:00",
+    "bookings": [
+        {
+            "id": "bk_306df98677",
+            "ref": "LCT-617086",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983278/lct-academy-id-photos/lct_id_LCT-617086_pay_888ed9d6.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983280/lct-academy-id-photos/lct_id_LCT-617086_id_6a939b7a.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:08:00-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

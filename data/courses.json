@@ -1,0 +1,666 @@
+[
+    {
+        "code": "LANG-TR-01",
+        "category": "language",
+        "icon": "languages",
+        "status": "active",
+        "name": {
+            "ar": "كورس اللغة التركية A1 كامل",
+            "en": "Complete Turkish Language Course (Level A1)"
+        },
+        "tagline": {
+            "ar": "احجز مكانك الآن وابدأ رحلتك نحو الاحتراف والوظيفة!",
+            "en": "Book your spot now and start your journey towards professionalism!"
+        },
+        "desc": {
+            "ar": "انضم لكورس اللغة التركية مع أكاديمية LCT. الكورس مصمم لجميع المستويات ومؤهّل للعمل والوظائف المرتبطة باللغة التركية.",
+            "en": "Join the Turkish Language Course with LCT Academy. Designed for all levels to qualify you for Turkish language-related jobs."
+        },
+        "level": {
+            "ar": "مبتدئ   A1",
+            "en": "Beginner"
+        },
+        "duration": {
+            "ar": "3 شهور للمستوى الواحد (8 محاضرات شهرياً)",
+            "en": "3 MONTHS"
+        },
+        "price": 2000,
+        "instructor": {
+            "ar": "-",
+            "en": "-"
+        },
+        "schedule": {
+            "ar": "-",
+            "en": "-"
+        },
+        "seatsTotal": 13,
+        "seatsBooked": 0,
+        "curriculum": {
+            "ar": [
+                "2000 جنيه شامل الاستماره , الكتب , شهاده معتمده",
+                "دراسة أساسيات ومحتوى المستوى (A1) في اللغة التركية.",
+                "تطوير مهارات الاستماع والتحدث والقراءة والكتابة.",
+                "اكتساب الكفاءة اللغوية المطلوبة لسوق العمل والتوظيف.",
+                "احجز كورس... والثاني مجاناً! 🎓✨",
+                "مع كل كورس تحجزه في العرض، كورس HR مجاناً من LCT.",
+                "🏃‍♂️ سارع بالحجز قبل انتهاء"
+            ],
+            "en": [
+                "2,000 EGP, including the application form, books, and an accredited certificate.",
+                "Studying the fundamentals and content of Level A1 Turkish.",
+                "Developing listening, speaking, reading, and writing skills.",
+                "Acquiring the language proficiency required for the job market and employment.Book one course... get the second one free! 🎓✨",
+                "With every course booked as part of this offer, receive a free HR course from LCT.",
+                "🏃‍♂️ Hurry and book before the offer ends!"
+            ]
+        },
+        "prerequisites": {
+            "ar": "لا يوجد",
+            "en": "None"
+        },
+        "id": "course_8a90ad72e4"
+    },
+    {
+        "code": "LANG-ZH-01",
+        "category": "language",
+        "icon": "languages",
+        "status": "active",
+        "name": {
+            "ar": "كورس اللغة الصينية   HSK1,HSK2",
+            "en": "Chinese Language Course"
+        },
+        "tagline": {
+            "ar": "ابدأ رحلتك نحو الاحتراف وتأهل للوظائف المرتبطة باللغة الصينية.",
+            "en": "Start your journey to professionalism and qualify for Chinese language jobs."
+        },
+        "desc": {
+            "ar": "كورس شامل مصمم لجميع المستويات،                                                     يهدف إلى تطوير مهارات التواصل واستخدام اللغة الصينية بشكل عملي، وتأهيل المتدربين لسوق العمل والوظائف المرتبطة بها، سواء للمبتدئين أو لمن لديهم أساسيات سابقة.",
+            "en": "A comprehensive course designed for all levels,                                   aimed at developing practical communication skills in Chinese and preparing trainees for the job market, whether complete beginners or those with basic knowledge."
+        },
+        "level": {
+            "ar": "مبتدئ",
+            "en": "beginner"
+        },
+        "duration": {
+            "ar": "3 شهور HSK1+HSK2 (8 محاضرات شهرياً)",
+            "en": "16 Training Hours (8 Lectures, 2 hours each)"
+        },
+        "price": 2000,
+        "instructor": {
+            "ar": "-",
+            "en": "-"
+        },
+        "schedule": {
+            "ar": "-",
+            "en": "-"
+        },
+        "seatsTotal": 15,
+        "seatsBooked": 0,
+        "curriculum": {
+            "ar": [
+                "2000 جنيه شامل الاستماره , الكتب , شهاده معتمده",
+                "تأسيس قواعد ومبادئ اللغة الصينية للمبتدئين.",
+                "تطوير مهارات الاستماع والتحدث والتواصل الفعال.",
+                "التدريب على الاستخدام العملي للغة في مواقف الحياة اليومية.",
+                "التأهيل اللغوي لمتطلبات سوق العمل والوظائف.احجز دورة تدريبية... واحصل على الثانية مجاناً! 🎓✨",
+                "مع كل دورة تحجزها ضمن هذا العرض، ستحصل على دورة مجانية في مجال الموارد البشرية (HR) من LCT.",
+                "🏃‍♂️ سارع بالحجز قبل انتهاء العرض!"
+            ],
+            "en": [
+                "Chinese language fundamentals for beginners.",
+                "Developing listening, speaking, and effective communication skills.",
+                "Practical application of the language in daily life situations.",
+                "Language preparation for job market requirements.Book one course... get the second one free! 🎓✨",
+                "With every course booked as part of this offer, receive a free HR course from LCT.",
+                "🏃‍♂️ Hurry and book before the offer ends!"
+            ]
+        },
+        "prerequisites": {
+            "ar": "لا يوجد",
+            "en": "none"
+        },
+        "id": "course_e842eb4e5d"
+    },
+    {
+        "code": "LANG-EN-02",
+        "category": "language",
+        "icon": "languages",
+        "status": "active",
+        "name": {
+            "ar": "كورس اللغة الإنجليزية A2,A1",
+            "en": "English Language Course A2,A1"
+        },
+        "tagline": {
+            "ar": "طوّر مستواك في اللغة الإنجليزية وانتقل إلى المستوى الثاني بثقة!",
+            "en": "Upgrade your English skills and move to the A2 level with confidence"
+        },
+        "desc": {
+            "ar": "كورس اللغة الإنجليزية للمستوى الثاني A2 كاملاً، يهدف لتطوير مهارات المحادثة والقواعد الأساسية وتعزيز التواصل باللغة الإنجليزية على مدار شهرين.",
+            "en": "Full A2 level English language course aimed at developing basic grammar, conversation skills, and everyday communication over 2 months."
+        },
+        "level": {
+            "ar": "(A2,A1)",
+            "en": "Level  A1,A2"
+        },
+        "duration": {
+            "ar": "3 شهور A1 + A2 (8 محاضرات شهرياً)",
+            "en": "3 Months per level (8 Lectures per month)"
+        },
+        "price": 2000,
+        "instructor": {
+            "ar": "-",
+            "en": "-"
+        },
+        "schedule": {
+            "ar": "-",
+            "en": "-"
+        },
+        "seatsTotal": 13,
+        "seatsBooked": 0,
+        "curriculum": {
+            "ar": [
+                "2000 جنيه شامل الاستماره , الكتب , شهاده معتمده",
+                "تعزيز القدرة على إدارة المحادثات اليومية بثقة وتوسيع حصيلة المصطلحات",
+                "التركيز على تحسين مهارات الاستماع والفهم واستيعاب النصوص المتوسطة",
+                "تطبيق قواعد اللغة الإنجليزية الأساسية وتوظيفها بشكل صحيح في الكتابة والتحدث",
+                "التغلب على حاجز الخوف عند التحدث وتطوير نطق الكلمات والجمل بشكل صحيح",
+                "التدريب والتطبيق العملي التفاعلي خلال المحاضرات لضمان الاستفادة الكاملةاحجز دورة تدريبية... واحصل على الثانية مجاناً! 🎓✨",
+                "مع كل دورة تحجزها ضمن هذا العرض، ستحصل على دورة مجانية في مجال الموارد البشرية (HR) من LCT.",
+                "🏃‍♂️ سارع بالحجز قبل انتهاء العرض!"
+            ],
+            "en": [
+                "2,000 EGP, including the application form, books, and an accredited certificate.",
+                "Building confidence in handling daily conversations and expanding active vocabulary",
+                "Enhancing listening comprehension and reading intermediate texts",
+                "Mastering essential A2 grammar rules and applying them in speaking and writing",
+                "Overcoming the fear of speaking and improving pronunciation and sentence structure",
+                "Interactive practical training in every session to ensure maximum progres.Book a training course... and get a second one for free! 🎓✨",
+                "With every course booked under this offer, you will receive a free Human Resources (HR) course from LCT.",
+                "🏃‍♂️ Hurry and book before the offer ends!"
+            ]
+        },
+        "prerequisites": {
+            "ar": "",
+            "en": ""
+        },
+        "id": "course_3b4f0dc4da"
+    },
+    {
+        "code": "LANG-DE-01",
+        "category": "language",
+        "icon": "languages",
+        "status": "active",
+        "name": {
+            "ar": "كورس اللغة الألمانية A1 كامل",
+            "en": "Complete German Language Course (Level A1)"
+        },
+        "tagline": {
+            "ar": "ابدأ رحلتك نحو الاحتراف وتأهل للوظائف المرتبطة باللغة الألمانية.",
+            "en": "Start your journey to professionalism and qualify for German language jobs."
+        },
+        "desc": {
+            "ar": "كورس شامل لتأسيس اللغة الألمانية يهدف إلى تأهيل المتدربين لسوق العمل والوظائف المرتبطة بها. (ملاحظة: الأسعار لا تشمل الكتب والشهادة).",
+            "en": "A comprehensive foundational German language course aimed at preparing trainees for the job market and related careers. (Note: Prices do not include books and certificates)."
+        },
+        "level": {
+            "ar": "المستوى الأول (A1)",
+            "en": "Level A1"
+        },
+        "duration": {
+            "ar": "3 شهور للمستوى الواحد (8 محاضرات شهرياً)",
+            "en": "3 Months per level (8 Lectures per month)"
+        },
+        "price": 2000,
+        "instructor": {
+            "ar": "-",
+            "en": "-"
+        },
+        "schedule": {
+            "ar": "-",
+            "en": "-"
+        },
+        "seatsTotal": 15,
+        "seatsBooked": 0,
+        "curriculum": {
+            "ar": [
+                "2000 جنيه شامل الاستماره , الكتب , شهاده معتمده",
+                "دراسة أساسيات ومحتوى المستوى الأول (A1) في اللغة الألمانية.",
+                "تطوير مهارات الاستماع، التحدث، القراءة، والكتابة.",
+                "التأهيل اللغوي لمتطلبات سوق العمل والوظائف."
+            ],
+            "en": [
+                "Studying the fundamentals and content of the A1 level in German.",
+                "Developing listening, speaking, reading, and writing skills.",
+                "Language preparation for job market requirements."
+            ]
+        },
+        "prerequisites": {
+            "ar": "لا يوجد",
+            "en": "none"
+        },
+        "id": "course_b367531369"
+    },
+    {
+        "code": "LANG-EN-CONV",
+        "category": "language",
+        "icon": "languages",
+        "status": "active",
+        "name": {
+            "ar": "كورس المحادثة والطلاقة في الإنجليزية",
+            "en": "English Conversation & Fluency Course"
+        },
+        "tagline": {
+            "ar": "تكلّم الإنجليزية بثقة وطلاقة واستفد من العرض والخصم الخاص!",
+            "en": "Speak English with confidence and fluency—take advantage of our special discount"
+        },
+        "desc": {
+            "ar": "كورس متخصص يركز بالكامل على الممارسة العملية والتحدث الحر لتجاوز الخوف وترديد المصطلحات والتعابير اليومية بطريقة طبيعية ومباشرة خلال شهر واحد. (ملاحظة: السعر لا يشمل الكتب والشهادات)",
+            "en": "A specialized intensive course focused on practical speaking, real-life conversation, and building fluency within one month. (Note: Price does not include books and certificates)"
+        },
+        "level": {
+            "ar": "3 مستويات",
+            "en": "-"
+        },
+        "duration": {
+            "ar": "شهرين",
+            "en": "-"
+        },
+        "price": 2000,
+        "instructor": {
+            "ar": "-",
+            "en": "-"
+        },
+        "schedule": {
+            "ar": "-",
+            "en": "-"
+        },
+        "seatsTotal": 15,
+        "seatsBooked": 0,
+        "curriculum": {
+            "ar": [
+                "2000 جنيه شامل الاستماره , الكتب , شهاده معتمده",
+                "ممارسة التحدث المباشر والتغلب الكامل على حاجز الخوف والتردد أثناء الكلام",
+                "اكتساب المصطلحات والتعابير الأكثر استخدامًا في الحياة اليومية والعملية (Idioms & Phrasal Verbs)",
+                "تحسين النطق الصحيح وتعديل المخارج وتقليل الأخطاء عند التحدث (Pronunciation & Accent)",
+                "مناقشة مواضيع تفاعلية متنوعة ومحاكاة مواقف حقيقية داخل القاعة",
+                "بناء الثقة بالنفس للتعبير عن الآراء والتفكير باللغة الإنجليزية مباشرة دون ترجمة"
+            ],
+            "en": [
+                "2,000 EGP, including the application form, books, and an accredited certificate.",
+                "Intensive speaking practice to completely break the barrier of hesitation and fear",
+                "Master essential everyday idioms, expressions, and conversational phrasing",
+                "Improve pronunciation, rhythm, and clarity in dynamic spoken English",
+                "Interactive group discussions, debate topics, and real-life situational role-plays",
+                "Train your brain to think in English without mental translation"
+            ]
+        },
+        "prerequisites": {
+            "ar": "معرفة بالأساسيات وقواعد اللغة الأساسية",
+            "en": "Basic knowledge of English grammar and vocabulary"
+        },
+        "id": "course_b23be166e9"
+    },
+    {
+        "code": "TECH-ICDL-01",
+        "category": "computer",
+        "icon": "book-open",
+        "status": "active",
+        "name": {
+            "ar": "كورس رخصة قيادة الحاسب الآلي (ICDL)",
+            "en": "International Computer Driving Licence (ICDL) Course"
+        },
+        "tagline": {
+            "ar": "خطوتك الأولى لنقاط النجاح الوظيفي والاحتراف التكنولوجي!",
+            "en": "Your first step toward career success and digital efficiency"
+        },
+        "desc": {
+            "ar": "عالم اليوم يتكلم بلغة التكنولوجيا! كورس ICDL الشامل يعلمك كيفية إنجاز المهام في دقائق بدلاً من ساعات من خلال إتقان الأساسيات والإنترنت والبرامج المكتبية (Word, Excel, PowerPoint).",
+            "en": "Master key computer skills, internet essentials, and Microsoft Office tools to save hours of work and boost your professional efficiency."
+        },
+        "level": {
+            "ar": "مبتدئ",
+            "en": "Beginner"
+        },
+        "duration": {
+            "ar": "محاضرتان أسبوعيًا (كل محاضرة ساعتان)",
+            "en": "2 Sessions per week (2 Hours per session)"
+        },
+        "price": 850,
+        "instructor": {
+            "ar": "-",
+            "en": "-"
+        },
+        "schedule": {
+            "ar": "-",
+            "en": "-"
+        },
+        "seatsTotal": 15,
+        "seatsBooked": 0,
+        "curriculum": {
+            "ar": [
+                "100 جنيه رسوم استماره",
+                "أساسيات الكمبيوتر (Computer Essentials): تشغيل النظام والتعامل مع الويندوز والملفات والفولدرات",
+                "أساسيات الإنترنت والبريد (Online Essentials): متصفحات ويب، طرق البحث، الإيميل والأمان الإلكتروني",
+                "معالجة النصوص (Microsoft Word): كتابة وتنسيق المستندات الاحترافية، الجداول والطباعة",
+                "الجداول الإلكترونية (Microsoft Excel): تنظيم البيانات، إنشاء الجداول واستخدام المعادلات البسيطة",
+                "العروض التقديمية (Microsoft PowerPoint): تصميم الشرائح، إضافة المؤثرات وإنشاء عروض تفاعلية"
+            ],
+            "en": [
+                "Computer Essentials: Managing OS, Windows navigation, file structure, and file management",
+                "Online Essentials: Web browsing, smart search techniques, email communication, and cyber safety",
+                "Word Processing (Microsoft Word): Creating, formatting professional documents, tables, and printing",
+                "Spreadsheets (Microsoft Excel): Data organization, dynamic spreadsheets, and essential formulas",
+                "Presentations (Microsoft PowerPoint): Designing interactive slides, transitions, and visual effects"
+            ]
+        },
+        "prerequisites": {
+            "ar": "لا يوجد",
+            "en": "None"
+        },
+        "id": "course_42f28d53c7"
+    },
+    {
+        "code": "LANG-FR-01",
+        "category": "language",
+        "icon": "languages",
+        "status": "active",
+        "name": {
+            "ar": "كورس اللغة الفرنسية A1+A2",
+            "en": "French Language Course"
+        },
+        "tagline": {
+            "ar": "ابدأ رحلتك نحو الاحتراف وتأهل للوظائف المرتبطة باللغة الفرنسية.",
+            "en": "Start your journey to professionalism and qualify for French language jobs."
+        },
+        "desc": {
+            "ar": "كورس شامل مصمم لجميع المستويات                                       (من مبتدئين إلى محترفين)، يهدف إلى تطوير المهارات اللغوية وتأهيل المتدربين لسوق العمل والوظائف المرتبطة باللغة الفرنسية.",
+            "en": "A comprehensive course designed for all levels                   (from beginners to professionals), aimed at developing language skills and preparing trainees for the job market and French-related careers."
+        },
+        "level": {
+            "ar": "مبتدئ",
+            "en": "beginner"
+        },
+        "duration": {
+            "ar": "3 شهور  (8 محاضرات شهرياً)",
+            "en": "3 Months per level (8 Lectures per month)"
+        },
+        "price": 2000,
+        "instructor": {
+            "ar": "-",
+            "en": "-"
+        },
+        "schedule": {
+            "ar": "-",
+            "en": "-"
+        },
+        "seatsTotal": 15,
+        "seatsBooked": 0,
+        "curriculum": {
+            "ar": [
+                "2000 جنيه شامل الاستماره , الكتب , شهاده معتمده",
+                "التأسيس والتطوير اللغوي لجميع المستويات في اللغة الفرنسية.",
+                "تعزيز مهارات الاستماع، التحدث، القراءة، والكتابة.",
+                "التأهيل اللغوي لمتطلبات سوق العمل والوظائف.احجز دورة تدريبية... واحصل على دورة ثانية مجاناً! 🎓✨",
+                "مع كل دورة تحجزها ضمن هذا العرض، ستحصل على دورة مجانية في مجال الموارد البشرية (HR) مقدمة من LCT.",
+                "🏃‍♂️ سارع بالحجز قبل انتهاء العرض!"
+            ],
+            "en": [
+                "2,000 EGP, including the application form, books, and an accredited certificate.",
+                "Language foundation and development for all levels in French.",
+                "Enhancing listening, speaking, reading, and writing skills.",
+                "Language preparation for job market requirements.Book a training course... and get a second one for free! 🎓✨",
+                "With every course booked under this offer, you will receive a free Human Resources (HR) course from LCT.",
+                "🏃‍♂️ Hurry and book before the offer ends!"
+            ]
+        },
+        "prerequisites": {
+            "ar": "لا يوجد",
+            "en": "none"
+        },
+        "id": "course_7f42e71404"
+    },
+    {
+        "code": "TECH-PY-01",
+        "category": "computer",
+        "icon": "book-open",
+        "status": "active",
+        "name": {
+            "ar": "كورس البرمجة بلغة بايثون (Python)",
+            "en": "Python Programming Fundamentals Course"
+        },
+        "tagline": {
+            "ar": "ابدأ رحلتك في عالم البرمجة وأتقن لغة العصر الأكثر طلباً في سوق العمل!",
+            "en": "Start your programming journey and master the most in-demand language"
+        },
+        "desc": {
+            "ar": "لغة بايثون هي البوابة الأولى والأسرع لدخول مجالات الذكاء الاصطناعي، وتحليل البيانات، وتطوير المواقع. يُغطي هذا الكورس المفاهيم البرمجية الأساسية من الصفح وحتى كتابة برامج ومشاريع حقيقية باستخدام التفكير البرمجي الصحيح وهياكل البيانات.",
+            "en": "Python is the easiest and most powerful gateway into Artificial Intelligence, Data Analysis, and Web Development. This course covers core programming concepts from scratch, helping you write clean code and build real-world applications."
+        },
+        "level": {
+            "ar": "مبتدئ",
+            "en": "Beginner"
+        },
+        "duration": {
+            "ar": "16 ساعة تدريبية - 8 محاضرات، ساعتان لكل محاضرة",
+            "en": "16 Training Hours - 8 Sessions, 2 Hours per session"
+        },
+        "price": 3500,
+        "instructor": {
+            "ar": "-",
+            "en": "-"
+        },
+        "schedule": {
+            "ar": "-",
+            "en": "-"
+        },
+        "seatsTotal": 12,
+        "seatsBooked": 0,
+        "curriculum": {
+            "ar": [
+                "100 جنيه رسوم استماره لا تسترجع",
+                "بيئة العمل والتأسيس: تنصيب Python وإعداد بيئات التطوير (VS Code / PyCharm) وفهم آلية عمل المترجم (Interpreter)",
+                "الأساسيات البرمجية: أنواع البيانات (Data Types)، المتغيرات (Variables)، والعمليات الحسابية والمنطقية",
+                "التحكم في تدفق البرنامج: الشروط (Conditional Statements: If/Else) وحلقات التكرار (Loops: For / While)",
+                "هيكلة البيانات (Data Structures): التعامل الاحترافي مع القوائم (Lists)، القواميس (Dictionaries)، والمجموعات (Tuples & Sets)",
+                "الدوال (Functions): بناء وتنسيق الدوال البرمجية، تمرير المعاملات (Arguments) وإرجاع القيم (Return Statements)",
+                "التعامل مع الملفات والنصوص: قراءة وكتابة الملفات (File I/O) وتطبيق معالجة النصوص (String Manipulation)",
+                "التعامل مع الأخطاء: إدارة ومعالجة الاستثناءات البرمجية (Exception Handling: Try/Except)",
+                "التفكير البرمجي وبناء مشروع حي كامل (Final Project) لتسليم كود متكامل في نهاية الكورس"
+            ],
+            "en": [
+                "Environment & Setup: Installing Python, configuring IDEs (VS Code), and understanding execution",
+                "Core Syntax: Data types, variables, arithmetic operations, and logical operators",
+                "Control Flow: Conditional statements (If/Else) and iteration loops (For / While)",
+                "Data Structures: Working with Lists, Dictionaries, Tuples, and Sets effectively",
+                "Modular Code with Functions: Defining functions, handling parameters, and return values",
+                "File Handling & Text Manipulation: Reading/writing external files and string processing",
+                "Error Handling: Managing runtime errors and debug routines using Try/Except blocks",
+                "Final Hands-on Project: Building a complete functional Python application from scratc"
+            ]
+        },
+        "prerequisites": {
+            "ar": "المعرفة الأساسية لاستخدام الحاسب الآلي والإنترنت (لا يشترط معرفة برمجية)",
+            "en": "NoneBasic computer literacy (No prior programming background required)"
+        },
+        "id": "course_20837fb3a5"
+    },
+    {
+        "code": "PROG-CPP-01",
+        "category": "language",
+        "icon": "book-open",
+        "status": "active",
+        "name": {
+            "ar": "كورس برمجة C++",
+            "en": "C++ Programming Course"
+        },
+        "tagline": {
+            "ar": "ابدأ رحلتك في عالم البرمجة وتعلم لغة C++ القوية لبناء التطبيقات والألعاب.",
+            "en": "Start your journey in programming and learn the powerful C++ language to build apps and games."
+        },
+        "desc": {
+            "ar": "كورس شامل يهدف إلى بناء أساس قوي في البرمجة باستخدام لغة C++، بدءاً من المفاهيم الأساسية وحتى البرمجة كائنية التوجه (OOP)، لتأهيل المتدربين لدخول سوق العمل البرمجي وتطوير الحلول البرمجية.",
+            "en": "A comprehensive course aimed at building a strong foundation in programming using C++, from basic concepts to Object-Oriented Programming (OOP), preparing trainees to enter the software job market and develop software solutions."
+        },
+        "level": {
+            "ar": "مبتدئ",
+            "en": "beginner"
+        },
+        "duration": {
+            "ar": "شهر واحد لكل مستوى (8 محاضرات للمستوى)",
+            "en": "1 Month per level (8 Lectures per level)"
+        },
+        "price": 3500,
+        "instructor": {
+            "ar": "-",
+            "en": "-"
+        },
+        "schedule": {
+            "ar": "-",
+            "en": "-"
+        },
+        "seatsTotal": 15,
+        "seatsBooked": 0,
+        "curriculum": {
+            "ar": [
+                "100 رسوم استماره لا تسترجع                                                                                      مقدمة في أساسيات لغة C++ وهيكلة البرنامج.",
+                "المتغيرات، أنواع البيانات، الجمل الشرطية، وحلقات التكرار.",
+                "التعامل مع الدوال (Functions) والمصفوفات (Arrays).",
+                "مقدمة في البرمجة كائنية التوجه (Object-Oriented Programming)."
+            ],
+            "en": [
+                "Introduction to C++ fundamentals and program structure.",
+                "Variables, data types, conditional statements, and loops.",
+                "Working with Functions and Arrays.",
+                "Introduction to Object-Oriented Programming (OOP)."
+            ]
+        },
+        "prerequisites": {
+            "ar": "لا يوجد (الكورس يبدأ من الصفر ويناسب المبتدئين).",
+            "en": "none"
+        },
+        "id": "course_d7a1c5b1d7"
+    },
+    {
+        "code": "LANG-DE-01",
+        "category": "language",
+        "icon": "languages",
+        "status": "active",
+        "name": {
+            "ar": "كورس اللغة الألمانية (برايفت)",
+            "en": "German Language Course (private)"
+        },
+        "tagline": {
+            "ar": "ابدأ رحلتك نحو الاحتراف وتأهل للوظائف المرتبطة باللغة الألمانية.",
+            "en": "Start your journey to professionalism and qualify for German language jobs."
+        },
+        "desc": {
+            "ar": "كورس شامل لتأسيس اللغة الألمانية يهدف إلى تأهيل المتدربين لسوق العمل والوظائف المرتبطة بها. (ملاحظة: الأسعار لا تشمل الكتب والشهادة).",
+            "en": "A comprehensive foundational German language course aimed at preparing trainees for the job market and related careers. (Note: Prices do not include books and certificates)."
+        },
+        "level": {
+            "ar": "المستوى الأول (A1)",
+            "en": "Level A1"
+        },
+        "duration": {
+            "ar": "(8 محاضرات شهرياً مدة المحاضرة ساعة)",
+            "en": "3 Months per level (8 Lectures per month)"
+        },
+        "price": 1800,
+        "instructor": {
+            "ar": "",
+            "en": ""
+        },
+        "schedule": {
+            "ar": "",
+            "en": ""
+        },
+        "seatsTotal": 1,
+        "seatsBooked": 1,
+        "curriculum": {
+            "ar": [
+                "100 رسوم استماره لا تسترجع",
+                "دراسة أساسيات ومحتوى المستوى الأول (A1) في اللغة الألمانية.",
+                "تطوير مهارات الاستماع، التحدث، القراءة، والكتابة.",
+                "التأهيل اللغوي لمتطلبات سوق العمل والوظائف.",
+                "العرض لفترة محدودة"
+            ],
+            "en": [
+                "Studying the fundamentals and content of the A1 level in German.",
+                "Developing listening, speaking, reading, and writing skills.",
+                "Language preparation for job market requirements."
+            ]
+        },
+        "prerequisites": {
+            "ar": "",
+            "en": ""
+        },
+        "id": "course_1abf0dd095"
+    },
+    {
+        "code": "LANG - FT 1",
+        "category": "language",
+        "icon": "book-open",
+        "status": "active",
+        "name": {
+            "ar": "ورشة تدريب ميداني",
+            "en": "Field Training"
+        },
+        "tagline": {
+            "ar": "ورشة تدريب ميداني لكلية ألسن",
+            "en": "*🎓✨ أكاديمية LCT للغات والتدريب والترجمة ✨🎓*  📍 العنوان – الإسماعيلية 🏢 الفرع الرئيسي: شارع شبين عند الموقف الجديد برج بانوراما الدور الثاني  الفرع الثاني: شارع الثلاثيني، أعلى محمصة الدراويش 📌 ناصية شارع فاروق  *💙 مستنيينكم في LCT Academy 💙*  📚✨ خطوتك الأولى لمستقبل أفضل ✨📚"
+        },
+        "desc": {
+            "ar": "فرصة ذهبية لطلبة كليات الألسن! تم فتح باب التدريب الصيفي الميداني المدعوم لطلاب الألسن. احصل على محاضرتين (4 ساعات) فقط بتكلفة 250 جنيه. المنحة تشمل الشهادة، الاستمارة، وجميع المحاضرات. عدد المقاعد محدود، احجز الآن قبل نفاد العدد. لا تفوت الفرصة!\"\r\nمتاح كورسات اونلاين  \r\n✨ نرحب بكم ونتشرف بانضمامكم لأكاديمية LCT لتطوير مهاراتكم اللغوية والتدريبية💗!",
+            "en": ""
+        },
+        "level": {
+            "ar": "مبتدئ",
+            "en": ""
+        },
+        "duration": {
+            "ar": "يومين (4ساعات)",
+            "en": ""
+        },
+        "price": 250,
+        "instructor": {
+            "ar": "اونلاين",
+            "en": ""
+        },
+        "schedule": {
+            "ar": "",
+            "en": "اونلاين"
+        },
+        "seatsTotal": 200,
+        "seatsBooked": 0,
+        "curriculum": {
+            "ar": [
+                "اهلا وسهلا بحضرتك",
+                "سعداء عشان سجلت معانا في التدريب الميداني",
+                "ودي تفاصيل التدريب  الكامل",
+                "1-CAT tools",
+                "_ Introduction",
+                "_ phrase",
+                "_ Word fast",
+                "_ SDl trades",
+                "2- الترجمه بإستخدام Ai",
+                "3- ترجمه السمع البصرية",
+                "(Subtitling _ transcription)",
+                "رسوم ورشة العمل المجانيه 2محاضرة",
+                "مدة المحاضره ساعتين",
+                "بيتم دفع رسوم 100ج استماره حجز",
+                "150ج رسوم شهادة",
+                "ملحوظه هامة",
+                "سعر الكورس كامل 550ج",
+                "100ج استمارة حجز",
+                "الاسعار مدعمة للطلبة",
+                "_ شهادة من الاكاديمية"
+            ],
+            "en": []
+        },
+        "prerequisites": {
+            "ar": "",
+            "en": ""
+        },
+        "id": "course_af9df51505"
+    }
+]

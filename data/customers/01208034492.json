@@ -1,0 +1,23 @@
+{
+    "phone": "01208034492",
+    "fullName": "جنى وائل الشربيني",
+    "email": "gana.elsherbiny2005@gmail.com",
+    "nationalId": "30509250300322",
+    "createdAt": "2026-10-14T08:58:30-04:00",
+    "bookings": [
+        {
+            "id": "bk_4e82fee828",
+            "ref": "LCT-921158",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982709/lct-academy-id-photos/lct_id_LCT-921158_pay_cd8edb09.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982711/lct-academy-id-photos/lct_id_LCT-921158_id_a3a6883f.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T08:58:30-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "phone": "01220083412",
+    "fullName": "اسامه ايهاب احمد فؤاد",
+    "email": "usamaehab22@gmail.com",
+    "nationalId": "30512140300131",
+    "createdAt": "2026-10-14T09:10:59-04:00",
+    "bookings": [
+        {
+            "id": "bk_02277b215b",
+            "ref": "LCT-704540",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983458/lct-academy-id-photos/lct_id_LCT-704540_pay_f4ee7ef3.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983459/lct-academy-id-photos/lct_id_LCT-704540_id_c4c8b0b4.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:10:59-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

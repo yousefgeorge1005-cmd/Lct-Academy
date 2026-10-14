@@ -1,0 +1,23 @@
+{
+    "phone": "01032485894",
+    "fullName": "Manar shaban farag abdrabo",
+    "email": "manarshabanfarag@gmail.com",
+    "nationalId": "30508171303344",
+    "createdAt": "2026-10-14T09:45:06-04:00",
+    "bookings": [
+        {
+            "id": "bk_96ad465fe4",
+            "ref": "LCT-319783",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985504/lct-academy-id-photos/lct_id_LCT-319783_pay_893d6e4b.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985506/lct-academy-id-photos/lct_id_LCT-319783_id_9ab44835.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:45:06-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

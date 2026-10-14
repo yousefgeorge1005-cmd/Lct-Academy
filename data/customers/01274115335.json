@@ -1,0 +1,23 @@
+{
+    "phone": "01274115335",
+    "fullName": "Arwa Hosny Attia Khalil",
+    "email": "arwahosny92@gmail.com",
+    "nationalId": "30603031301743",
+    "createdAt": "2026-10-14T10:14:04-04:00",
+    "bookings": [
+        {
+            "id": "bk_2f0e0dab7c",
+            "ref": "LCT-780360",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987243/lct-academy-id-photos/lct_id_LCT-780360_pay_eb7ae664.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987244/lct-academy-id-photos/lct_id_LCT-780360_id_c59e8433.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:14:04-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

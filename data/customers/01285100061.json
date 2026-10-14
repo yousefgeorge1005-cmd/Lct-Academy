@@ -1,0 +1,23 @@
+{
+    "phone": "01285100061",
+    "fullName": "Arwa Yasser Ramadan Mohamed",
+    "email": "",
+    "nationalId": "30509030300224",
+    "createdAt": "2026-10-14T09:47:04-04:00",
+    "bookings": [
+        {
+            "id": "bk_766de7ef74",
+            "ref": "LCT-745938",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985622/lct-academy-id-photos/lct_id_LCT-745938_pay_ce0cab45.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985624/lct-academy-id-photos/lct_id_LCT-745938_id_69046391.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:47:04-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

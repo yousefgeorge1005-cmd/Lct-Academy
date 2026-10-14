@@ -1,0 +1,23 @@
+{
+    "phone": "01204063132",
+    "fullName": "Shahd Yasser abdelatef mohamed",
+    "email": "yshahd130@gmail.com",
+    "nationalId": "30506290300121",
+    "createdAt": "2026-10-14T10:09:08-04:00",
+    "bookings": [
+        {
+            "id": "bk_5bdb47a88d",
+            "ref": "LCT-971283",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986946/lct-academy-id-photos/lct_id_LCT-971283_pay_8cd0fd0c.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986948/lct-academy-id-photos/lct_id_LCT-971283_id_71bee4f4.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:09:08-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

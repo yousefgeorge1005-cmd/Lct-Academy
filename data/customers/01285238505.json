@@ -1,0 +1,23 @@
+{
+    "phone": "01285238505",
+    "fullName": "Roaa waleed hafez hafez",
+    "email": "",
+    "nationalId": "30507270300288",
+    "createdAt": "2026-10-14T09:12:10-04:00",
+    "bookings": [
+        {
+            "id": "bk_c6b1fc4585",
+            "ref": "LCT-446733",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983528/lct-academy-id-photos/lct_id_LCT-446733_pay_4d9db9c8.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983530/lct-academy-id-photos/lct_id_LCT-446733_id_0f8d562c.png",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:12:10-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

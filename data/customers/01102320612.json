@@ -1,0 +1,23 @@
+{
+    "phone": "01102320612",
+    "fullName": "محمد ابو هاشم محمد أبو هاشم مكي",
+    "email": "makky9888@gmail.com",
+    "nationalId": "30503238800893",
+    "createdAt": "2026-10-14T09:05:32-04:00",
+    "bookings": [
+        {
+            "id": "bk_c9c512fb1d",
+            "ref": "LCT-526831",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983131/lct-academy-id-photos/lct_id_LCT-526831_pay_e383be0d.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983132/lct-academy-id-photos/lct_id_LCT-526831_id_642bfdd8.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:05:32-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

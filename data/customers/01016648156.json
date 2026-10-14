@@ -1,0 +1,23 @@
+{
+    "phone": "01016648156",
+    "fullName": "Magda Alaa Eldeen Gameel Saeed Salem",
+    "email": "",
+    "nationalId": "30510281900245",
+    "createdAt": "2026-10-14T10:28:35-04:00",
+    "bookings": [
+        {
+            "id": "bk_4b16982d4e",
+            "ref": "LCT-969042",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791988114/lct-academy-id-photos/lct_id_LCT-969042_pay_f25ec2eb.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791988115/lct-academy-id-photos/lct_id_LCT-969042_id_cdfaea03.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:28:35-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

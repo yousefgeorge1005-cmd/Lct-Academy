@@ -1,0 +1,23 @@
+{
+    "phone": "01061675058",
+    "fullName": "Nour Wael Mohamed Kamal",
+    "email": "nourwael128@gmail.com",
+    "nationalId": "30508121300921",
+    "createdAt": "2026-10-14T10:25:32-04:00",
+    "bookings": [
+        {
+            "id": "bk_8ee4ec36ef",
+            "ref": "LCT-277869",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987930/lct-academy-id-photos/lct_id_LCT-277869_pay_0c2f30cf.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987932/lct-academy-id-photos/lct_id_LCT-277869_id_a968e0ef.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:25:32-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "phone": "01070266010",
+    "fullName": "جينا خالد مصطفي محمد",
+    "email": "Khaledgina1@gmail.com",
+    "nationalId": "30509250300489",
+    "createdAt": "2026-10-14T09:59:36-04:00",
+    "bookings": [
+        {
+            "id": "bk_1b9f34e573",
+            "ref": "LCT-659497",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986374/lct-academy-id-photos/lct_id_LCT-659497_pay_e5c8c73c.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986376/lct-academy-id-photos/lct_id_LCT-659497_id_ba821c9c.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:59:36-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

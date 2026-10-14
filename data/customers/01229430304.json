@@ -1,0 +1,23 @@
+{
+    "phone": "01229430304",
+    "fullName": "Naira Ashraf Farouk Elsehrawy",
+    "email": "nairaashraf74@gmail.com",
+    "nationalId": "30510150300161",
+    "createdAt": "2026-10-14T10:16:24-04:00",
+    "bookings": [
+        {
+            "id": "bk_aef331e34d",
+            "ref": "LCT-119917",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987382/lct-academy-id-photos/lct_id_LCT-119917_pay_245d0ebc.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987384/lct-academy-id-photos/lct_id_LCT-119917_id_3585a36e.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:16:24-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

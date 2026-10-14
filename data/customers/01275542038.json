@@ -1,0 +1,23 @@
+{
+    "phone": "01275542038",
+    "fullName": "Sara magdy sobhy mohamed rashad",
+    "email": "Saramagdy1098@gmail.com",
+    "nationalId": "30412030300182",
+    "createdAt": "2026-10-14T09:46:51-04:00",
+    "bookings": [
+        {
+            "id": "bk_ba94171ad9",
+            "ref": "LCT-175818",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985608/lct-academy-id-photos/lct_id_LCT-175818_pay_19ac544d.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985610/lct-academy-id-photos/lct_id_LCT-175818_id_d83e4e0e.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br2",
+            "createdAt": "2026-10-14T09:46:51-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

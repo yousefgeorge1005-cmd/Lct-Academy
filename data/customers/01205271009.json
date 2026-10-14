@@ -1,0 +1,23 @@
+{
+    "phone": "01205271009",
+    "fullName": "Ahmed Mohamed Elsaid Hassouna",
+    "email": "ahmd1112005@gmail.com",
+    "nationalId": "30501110300119",
+    "createdAt": "2026-10-14T09:12:19-04:00",
+    "bookings": [
+        {
+            "id": "bk_542336027f",
+            "ref": "LCT-986831",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983538/lct-academy-id-photos/lct_id_LCT-986831_pay_a3ccbfc1.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983539/lct-academy-id-photos/lct_id_LCT-986831_id_bb388fc1.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:12:19-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

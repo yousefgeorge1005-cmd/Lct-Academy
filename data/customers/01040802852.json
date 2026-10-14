@@ -1,0 +1,23 @@
+{
+    "phone": "01040802852",
+    "fullName": "كريم ضياء الدين عبدالحميد دعيه",
+    "email": "kareemdoaia20@gmail.com",
+    "nationalId": "30412170300433",
+    "createdAt": "2026-10-14T09:16:38-04:00",
+    "bookings": [
+        {
+            "id": "bk_c2820bf631",
+            "ref": "LCT-948907",
+            "type": "course",
+            "status": "pending",
+            "notes": "لقد تم التواصل والدفع مسبقا 250 عالجروب الاتنين والأربعاء وآخر سيشن اليوم",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983796/lct-academy-id-photos/lct_id_LCT-948907_pay_c9b7bdca.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983798/lct-academy-id-photos/lct_id_LCT-948907_id_46830366.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:16:38-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

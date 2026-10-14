@@ -1,0 +1,23 @@
+{
+    "phone": "01283689511",
+    "fullName": "Yasmin Tarek Mahmoud Mohamed",
+    "email": "Yasminabouzied@icloud.com",
+    "nationalId": "30506160300049",
+    "createdAt": "2026-10-14T09:45:30-04:00",
+    "bookings": [
+        {
+            "id": "bk_fe4cbed2ac",
+            "ref": "LCT-981015",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985530/lct-academy-id-photos/lct_id_LCT-981015_pay_ea937f51.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985531/lct-academy-id-photos/lct_id_LCT-981015_id_2315607c.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:45:30-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

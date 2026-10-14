@@ -1,0 +1,23 @@
+{
+    "phone": "01271347653",
+    "fullName": "Roqia Mohammed Mohammed",
+    "email": "roqiamohammed32@gmail.com",
+    "nationalId": "30509180300303",
+    "createdAt": "2026-10-14T09:48:40-04:00",
+    "bookings": [
+        {
+            "id": "bk_948474993a",
+            "ref": "LCT-470594",
+            "type": "course",
+            "status": "pending",
+            "notes": "اسكرين الدفع مكتوب ٥٠٠ عشان كنت دافعه ليا ولزميلتي",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985719/lct-academy-id-photos/lct_id_LCT-470594_pay_41d6d335.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985720/lct-academy-id-photos/lct_id_LCT-470594_id_f6630797.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:48:40-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

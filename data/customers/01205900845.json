@@ -1,0 +1,23 @@
+{
+    "phone": "01205900845",
+    "fullName": "فرح أسامه احمد طه خلاف",
+    "email": "",
+    "nationalId": "30510211600589",
+    "createdAt": "2026-10-14T09:06:16-04:00",
+    "bookings": [
+        {
+            "id": "bk_66b4b76af2",
+            "ref": "LCT-341580",
+            "type": "course",
+            "status": "pending",
+            "notes": "الكورس اونلاين",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983175/lct-academy-id-photos/lct_id_LCT-341580_pay_b6618db8.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983176/lct-academy-id-photos/lct_id_LCT-341580_id_527b8764.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:06:16-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

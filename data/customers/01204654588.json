@@ -1,0 +1,23 @@
+{
+    "phone": "01204654588",
+    "fullName": "Ramy Hossam Eldeen Mohamed Elkhodary",
+    "email": "elkhodaryramy5@gmail.com",
+    "nationalId": "30507160300134",
+    "createdAt": "2026-10-14T09:24:36-04:00",
+    "bookings": [
+        {
+            "id": "bk_6f09bc5ea2",
+            "ref": "LCT-185260",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984274/lct-academy-id-photos/lct_id_LCT-185260_pay_69ba2053.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984275/lct-academy-id-photos/lct_id_LCT-185260_id_863417da.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:24:36-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "phone": "01094920568",
+    "fullName": "عبدالرحمن محمد احمد محمد",
+    "email": "2abdalrhmanmohammed2@gmail.com",
+    "nationalId": "30503291300754",
+    "createdAt": "2026-10-14T09:09:02-04:00",
+    "bookings": [
+        {
+            "id": "bk_90346cc1ef",
+            "ref": "LCT-165583",
+            "type": "course",
+            "status": "pending",
+            "notes": "لا شئ",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983341/lct-academy-id-photos/lct_id_LCT-165583_pay_20dbaf05.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983342/lct-academy-id-photos/lct_id_LCT-165583_id_724db3a2.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:09:02-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

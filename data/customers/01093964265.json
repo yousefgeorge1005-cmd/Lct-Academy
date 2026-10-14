@@ -1,0 +1,23 @@
+{
+    "phone": "01093964265",
+    "fullName": "Habiba Ibrahim salama ahmed",
+    "email": "Hbybhnym44@gmail.com",
+    "nationalId": "30510011300963",
+    "createdAt": "2026-10-14T09:22:10-04:00",
+    "bookings": [
+        {
+            "id": "bk_33f712f58a",
+            "ref": "LCT-567160",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984129/lct-academy-id-photos/lct_id_LCT-567160_pay_45646ff0.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984130/lct-academy-id-photos/lct_id_LCT-567160_id_ede7f6f4.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:22:10-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

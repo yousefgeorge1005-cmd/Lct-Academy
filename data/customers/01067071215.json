@@ -1,0 +1,23 @@
+{
+    "phone": "01067071215",
+    "fullName": "Maghfra Hossam Mahfouz Mohammed",
+    "email": "hossammaghfra@gmail.com",
+    "nationalId": "30509130300167",
+    "createdAt": "2026-10-14T10:24:06-04:00",
+    "bookings": [
+        {
+            "id": "bk_dd69dac100",
+            "ref": "LCT-537603",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987845/lct-academy-id-photos/lct_id_LCT-537603_pay_54ea95c1.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987847/lct-academy-id-photos/lct_id_LCT-537603_id_367b7964.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:24:06-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

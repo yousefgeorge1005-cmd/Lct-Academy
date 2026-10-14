@@ -1,0 +1,23 @@
+{
+    "phone": "01571347653",
+    "fullName": "رقية محمد محمد محمود عطية",
+    "email": "roqiamohammed32@gmail.com",
+    "nationalId": "30509180300303",
+    "createdAt": "2026-10-14T09:05:26-04:00",
+    "bookings": [
+        {
+            "id": "bk_a9d5c7431c",
+            "ref": "LCT-778071",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983124/lct-academy-id-photos/lct_id_LCT-778071_pay_bfe20083.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983126/lct-academy-id-photos/lct_id_LCT-778071_id_24a4a7cd.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:05:26-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

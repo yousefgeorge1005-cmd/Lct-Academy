@@ -1,0 +1,23 @@
+{
+    "phone": "01152022335",
+    "fullName": "Aroa Gouda El-Sayed Abd-Elghany",
+    "email": "aroagouda@gmail.com",
+    "nationalId": "30504111302165",
+    "createdAt": "2026-10-14T09:47:26-04:00",
+    "bookings": [
+        {
+            "id": "bk_6fdc872810",
+            "ref": "LCT-953436",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985644/lct-academy-id-photos/lct_id_LCT-953436_pay_d2387da4.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985646/lct-academy-id-photos/lct_id_LCT-953436_id_259c07c7.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:47:26-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

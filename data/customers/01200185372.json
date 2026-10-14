@@ -1,0 +1,23 @@
+{
+    "phone": "01200185372",
+    "fullName": "امير زين العابدين السيد على",
+    "email": "",
+    "nationalId": "30411101305192",
+    "createdAt": "2026-10-14T09:06:44-04:00",
+    "bookings": [
+        {
+            "id": "bk_1ace30051d",
+            "ref": "LCT-555076",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983201/lct-academy-id-photos/lct_id_LCT-555076_pay_7edbcd34.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983204/lct-academy-id-photos/lct_id_LCT-555076_id_365659c5.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:06:44-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

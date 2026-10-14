@@ -1,0 +1,23 @@
+{
+    "phone": "01212617594",
+    "fullName": "Abdelrahman hamed ali",
+    "email": "hb4021961@gmail.com",
+    "nationalId": "30401071302759",
+    "createdAt": "2026-10-14T09:53:12-04:00",
+    "bookings": [
+        {
+            "id": "bk_73fa29e5bf",
+            "ref": "LCT-403928",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985991/lct-academy-id-photos/lct_id_LCT-403928_pay_8d8c3c31.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791985992/lct-academy-id-photos/lct_id_LCT-403928_id_51adc2a9.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:53:12-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

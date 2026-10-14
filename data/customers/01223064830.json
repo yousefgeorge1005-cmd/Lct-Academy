@@ -1,0 +1,23 @@
+{
+    "phone": "01223064830",
+    "fullName": "احمد صلاح حسين الصاوي",
+    "email": "ahmedelahlawy2020@gmail.com",
+    "nationalId": "30504201306216",
+    "createdAt": "2026-10-14T09:08:27-04:00",
+    "bookings": [
+        {
+            "id": "bk_0035e72372",
+            "ref": "LCT-834202",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983305/lct-academy-id-photos/lct_id_LCT-834202_pay_b605b6a7.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983307/lct-academy-id-photos/lct_id_LCT-834202_id_ef420df1.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:08:27-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

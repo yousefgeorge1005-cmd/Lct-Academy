@@ -1,0 +1,23 @@
+{
+    "phone": "01096121122",
+    "fullName": "Mariam yasser abdelmabod ali",
+    "email": "maimyasser59@gmail.com",
+    "nationalId": "30511051304968",
+    "createdAt": "2026-10-14T10:29:15-04:00",
+    "bookings": [
+        {
+            "id": "bk_ed089cae0f",
+            "ref": "LCT-194428",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791988154/lct-academy-id-photos/lct_id_LCT-194428_pay_13517de0.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791988155/lct-academy-id-photos/lct_id_LCT-194428_id_a15a7cfb.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:29:15-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

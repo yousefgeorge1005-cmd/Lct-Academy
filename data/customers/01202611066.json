@@ -1,0 +1,23 @@
+{
+    "phone": "01202611066",
+    "fullName": "رؤي صلاح حامد محمد",
+    "email": "",
+    "nationalId": "30504180300123",
+    "createdAt": "2026-10-14T09:13:01-04:00",
+    "bookings": [
+        {
+            "id": "bk_6001e3246d",
+            "ref": "LCT-342348",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983580/lct-academy-id-photos/lct_id_LCT-342348_pay_7b5aba80.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983581/lct-academy-id-photos/lct_id_LCT-342348_id_b63d18ab.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:13:01-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

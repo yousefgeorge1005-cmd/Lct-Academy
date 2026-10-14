@@ -1,0 +1,23 @@
+{
+    "phone": "01204720823",
+    "fullName": "زينة محمد عبده حسين",
+    "email": "",
+    "nationalId": "30509201900306",
+    "createdAt": "2026-10-14T08:57:57-04:00",
+    "bookings": [
+        {
+            "id": "bk_baf7bcc889",
+            "ref": "LCT-198592",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982676/lct-academy-id-photos/lct_id_LCT-198592_pay_bb8e5ea5.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982678/lct-academy-id-photos/lct_id_LCT-198592_id_00c2ca3c.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T08:57:57-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

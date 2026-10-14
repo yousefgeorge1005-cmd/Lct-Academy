@@ -1,0 +1,23 @@
+{
+    "phone": "01208752979",
+    "fullName": "Reem Ahmed Mohamed Atta Ahmed",
+    "email": "reematta2004@gmail.com",
+    "nationalId": "30504100300268",
+    "createdAt": "2026-10-14T09:30:22-04:00",
+    "bookings": [
+        {
+            "id": "bk_0f6b4014f7",
+            "ref": "LCT-714282",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984620/lct-academy-id-photos/lct_id_LCT-714282_pay_79064268.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791984622/lct-academy-id-photos/lct_id_LCT-714282_id_3861e7d3.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:30:22-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

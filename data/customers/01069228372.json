@@ -1,0 +1,23 @@
+{
+    "phone": "01069228372",
+    "fullName": "نور احمد محمد محمد",
+    "email": "noorahmedyuosef2000@gmail.com",
+    "nationalId": "30510011309847",
+    "createdAt": "2026-10-14T09:11:11-04:00",
+    "bookings": [
+        {
+            "id": "bk_f057a0f26d",
+            "ref": "LCT-522737",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983470/lct-academy-id-photos/lct_id_LCT-522737_pay_d09d748c.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983471/lct-academy-id-photos/lct_id_LCT-522737_id_26868980.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:11:11-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

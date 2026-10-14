@@ -1,0 +1,23 @@
+{
+    "phone": "01210641650",
+    "fullName": "Shaza Mohamed Saleh NourEldin",
+    "email": "noureldinshaza@gmail.com",
+    "nationalId": "30504190300121",
+    "createdAt": "2026-10-14T09:16:46-04:00",
+    "bookings": [
+        {
+            "id": "bk_1fbdf6aa02",
+            "ref": "LCT-570631",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983805/lct-academy-id-photos/lct_id_LCT-570631_pay_c4c0221f.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983806/lct-academy-id-photos/lct_id_LCT-570631_id_7ea0474c.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:16:46-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

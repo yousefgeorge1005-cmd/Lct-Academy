@@ -1,0 +1,23 @@
+{
+    "phone": "01222572059",
+    "fullName": "Marwan mansour ibrahim",
+    "email": "maromansour3343@gmail.com",
+    "nationalId": "30504031900738",
+    "createdAt": "2026-10-14T10:14:26-04:00",
+    "bookings": [
+        {
+            "id": "bk_e158e47271",
+            "ref": "LCT-219490",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987265/lct-academy-id-photos/lct_id_LCT-219490_pay_2b30895b.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791987266/lct-academy-id-photos/lct_id_LCT-219490_id_3dac6cc0.png",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:14:26-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

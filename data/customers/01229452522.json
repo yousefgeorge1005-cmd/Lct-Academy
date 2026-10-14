@@ -1,0 +1,23 @@
+{
+    "phone": "01229452522",
+    "fullName": "Nadine ahmed Abuelfotouh ahmed taha",
+    "email": "Nadineahmed194@gmail.com",
+    "nationalId": "30504190300164",
+    "createdAt": "2026-10-14T10:08:38-04:00",
+    "bookings": [
+        {
+            "id": "bk_4200c4a5f2",
+            "ref": "LCT-493798",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986916/lct-academy-id-photos/lct_id_LCT-493798_pay_cdef4236.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986919/lct-academy-id-photos/lct_id_LCT-493798_id_4c256905.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T10:08:38-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

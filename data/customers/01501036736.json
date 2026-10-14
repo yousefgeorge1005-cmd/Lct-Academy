@@ -1,0 +1,23 @@
+{
+    "phone": "01501036736",
+    "fullName": "مريم محمد عبد العزيز محمد",
+    "email": "mariammohammad691@gmail.com",
+    "nationalId": "30501011903502",
+    "createdAt": "2026-10-14T08:55:48-04:00",
+    "bookings": [
+        {
+            "id": "bk_93114ed882",
+            "ref": "LCT-678943",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982547/lct-academy-id-photos/lct_id_LCT-678943_pay_2ea28096.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982549/lct-academy-id-photos/lct_id_LCT-678943_id_6f395330.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T08:55:48-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

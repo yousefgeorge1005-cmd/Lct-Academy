@@ -1,0 +1,23 @@
+{
+    "phone": "01201456982",
+    "fullName": "نور وائل السيد فهمي الغيطاني",
+    "email": "Nourelghetany2@gmail.com",
+    "nationalId": "30510230300081",
+    "createdAt": "2026-10-14T10:02:57-04:00",
+    "bookings": [
+        {
+            "id": "bk_fe158af5da",
+            "ref": "LCT-462910",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986576/lct-academy-id-photos/lct_id_LCT-462910_pay_ebb89a1f.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791986577/lct-academy-id-photos/lct_id_LCT-462910_id_fdc72223.png",
+            "idPhotoCloudinary": true,
+            "branchId": "br2",
+            "createdAt": "2026-10-14T10:02:57-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

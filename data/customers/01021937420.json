@@ -1,0 +1,23 @@
+{
+    "phone": "01021937420",
+    "fullName": "Abdelrahman Tarek Ahmed Thabat",
+    "email": "tarekabdelrahman900@gmail.com",
+    "nationalId": "30505140300178",
+    "createdAt": "2026-10-14T09:14:39-04:00",
+    "bookings": [
+        {
+            "id": "bk_58c2a4c761",
+            "ref": "LCT-549828",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983678/lct-academy-id-photos/lct_id_LCT-549828_pay_bc92d851.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983679/lct-academy-id-photos/lct_id_LCT-549828_id_f18fae38.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:14:39-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

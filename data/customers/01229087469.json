@@ -1,0 +1,23 @@
+{
+    "phone": "01229087469",
+    "fullName": "أحمد رضا إسماعيل محمد",
+    "email": "reda24847@gmail.com",
+    "nationalId": "30507101900497",
+    "createdAt": "2026-10-14T09:09:16-04:00",
+    "bookings": [
+        {
+            "id": "bk_b30e93bd9c",
+            "ref": "LCT-286922",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983355/lct-academy-id-photos/lct_id_LCT-286922_pay_f182fc3f.jpg",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791983356/lct-academy-id-photos/lct_id_LCT-286922_id_23247730.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:09:16-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "phone": "01275834709",
+    "fullName": "مريم أحمد محمد ابوزيد سليمان",
+    "email": "mariamabozaid004@gmail.com",
+    "nationalId": "30411270300361",
+    "createdAt": "2026-10-14T09:00:13-04:00",
+    "bookings": [
+        {
+            "id": "bk_f647156d4f",
+            "ref": "LCT-527111",
+            "type": "course",
+            "status": "pending",
+            "notes": "",
+            "paymentPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982812/lct-academy-id-photos/lct_id_LCT-527111_pay_b59b0436.png",
+            "paymentPhotoCloudinary": true,
+            "idPhotoPath": "https://res.cloudinary.com/jyxmpkuo/image/upload/v1791982814/lct-academy-id-photos/lct_id_LCT-527111_id_b191285f.jpg",
+            "idPhotoCloudinary": true,
+            "branchId": "br1",
+            "createdAt": "2026-10-14T09:00:13-04:00",
+            "courseId": "course_af9df51505"
+        }
+    ]
+}
